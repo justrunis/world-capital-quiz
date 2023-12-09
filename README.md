@@ -9,7 +9,7 @@ This is a simple quiz application that tests your knowledge of world capitals.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/world-capital-quiz.git`
+1. Clone the repository: `git clone https://github.com/justrunis/world-capital-quiz.git`
 2. Navigate to the project directory: `cd world-capital-quiz`
 3. Install dependencies: `npm i`
 4. Set up the PostgreSQL database:
