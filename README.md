@@ -19,6 +19,7 @@ This is a simple quiz application that tests your knowledge of world capitals.
             - country (varchar(45))
             - capital (varchar(45))
         - Import the data from the `capitals.csv` file into the "capitals" table (make sure to include the header row)
+5. In `index.js`, update the values in the `const db` constant with your own database connection details.
 
 ## Usage
 
